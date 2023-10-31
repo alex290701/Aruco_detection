@@ -1,0 +1,11 @@
+# Action goal definition
+sensor_msgs/Image image
+---
+# Action result definition
+int32 marker_id
+float64 x
+float64 y
+float64 theta
+---
+# Action feedback definition
+bool processing
