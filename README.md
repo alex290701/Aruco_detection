@@ -14,3 +14,5 @@ to see the x,y,theta values check,
 ```
 rostopic echo /marker_detection/result
 ```
+## Output
+![Output](Aruco.png)
